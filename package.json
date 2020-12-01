@@ -1,0 +1,20 @@
+{
+  "name": "build-my-own-react",
+  "version": "1.0.0",
+  "description": "test to build my own react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zuoqishisan",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/plugin-transform-react-jsx-source": "^7.12.1",
+    "@babel/core": "^7.11.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zuoqishisan/build-my-own-react"
+  }
+}
